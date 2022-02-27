@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pro-fibonacci/static/css/main.b19cef22.css",
+    "main.js": "/pro-fibonacci/static/js/main.91ab546f.js",
+    "static/js/787.e5c92c45.chunk.js": "/pro-fibonacci/static/js/787.e5c92c45.chunk.js",
+    "index.html": "/pro-fibonacci/index.html",
+    "main.b19cef22.css.map": "/pro-fibonacci/static/css/main.b19cef22.css.map",
+    "main.91ab546f.js.map": "/pro-fibonacci/static/js/main.91ab546f.js.map",
+    "787.e5c92c45.chunk.js.map": "/pro-fibonacci/static/js/787.e5c92c45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b19cef22.css",
+    "static/js/main.91ab546f.js"
+  ]
+}
